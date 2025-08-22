@@ -11,4 +11,3 @@ There are 2 files in this repository related to the results:
    * Only 2 parameters were removed from this spreadsheet relative to the analytic set used.  Redaction was to improve anonymity of responses.
       1. Start Time of the survey
       2. Geographic Location of the respondents secondary school.
-      3. 
